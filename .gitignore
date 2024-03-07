@@ -11,7 +11,7 @@ target/
 *.iws
 *.iml
 *.ipr
-*.mov
+*.mp4
 
 ### Eclipse ###
 .apt_generated
